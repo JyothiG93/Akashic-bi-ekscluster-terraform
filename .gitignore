@@ -1,0 +1,11 @@
+#Terraform execution directory
+.terraform/
+
+#Terraform lockfiles
+.terraform.lock.hcl
+
+#Terraform plan files
+*.tfplan
+
+#compiled binaries or artifacts
+/bin/
